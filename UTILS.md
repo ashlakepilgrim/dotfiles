@@ -32,3 +32,46 @@ pactl info
 ```
 
 After installation, reload the i3 configuration to load the audio/volume module in Polybar.
+
+## Gaming
+
+Steam requires the `multilib` repository.
+
+Open the pacman configuration:
+
+```bash
+sudo nano /etc/pacman.conf
+```
+
+Uncomment:
+
+```text
+[multilib]
+Include = /etc/pacman.d/mirrorlist
+```
+
+Update the package database:
+
+```bash
+sudo pacman -Syu
+```
+
+Install Steam:
+
+```bash
+sudo pacman -S steam
+```
+
+Install dependencies for Intel GPU:
+
+```bash
+sudo pacman -S mesa mesa-utils lib32-mesa vulkan-intel lib32-vulkan-intel vulkan-tools
+```
+
+Check OpenGL, Direct Rendering and Vulkan details:
+
+```bash
+glxinfo | grep "OpenGL renderer"
+glxinfo | grep "direct rendering"
+vulkaninfo --summary
+```
