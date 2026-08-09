@@ -15,6 +15,8 @@ arch linux dotfiles for my daily setup.
 
 * [arch linux installation](INSTALL.md)
 * [dotfiles setup](SETUP.md)
+* [utils setup](UTILS.md)
+* [dev dependencies setup](DEV_DEPENDENCIES.md)
 
 ## screenshots
 
