@@ -41,7 +41,7 @@ exec --no-startup-id picom
 exec_always --no-startup-id ~/.config/polybar/launch.sh
 
 # Wallpaper
-exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpapers/4.png
+exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpapers/archlinux-tv.png
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status

@@ -56,7 +56,7 @@ cp -r alacritty i3 picom polybar rofi wallpapers ~/.config/
 The i3 configuration currently uses one of these wallpapers:
 
 ```bash
-exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpapers/4.png
+exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpapers/archlinux-tv.png
 ```
 
 You can either:
@@ -74,7 +74,7 @@ and update the i3 configuration to use the wallpaper you want.
 For example:
 
 ```bash
-exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpapers/1.png
+exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpapers/anime-enchanted-garden.png
 ```
 
 ### Add Your Own Wallpapers
