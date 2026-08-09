@@ -21,6 +21,9 @@ arch linux dotfiles for my daily setup.
 screenshots of the setup in use.
 
 <!-- add screenshots here -->
+<img width="2560" height="1440" alt="2026-08-10_03-45-27" src="https://github.com/user-attachments/assets/b446cddc-3575-422a-ba84-b3207428740f" />
+<img width="2560" height="1440" alt="2026-08-10_03-46-10" src="https://github.com/user-attachments/assets/3e08a7d0-9140-480a-a4f8-e29de5909dcf" />
+
 
 ## wallpapers
 
