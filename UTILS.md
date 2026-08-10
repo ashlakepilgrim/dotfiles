@@ -35,6 +35,8 @@ After installation, reload the i3 configuration to load the audio/volume module 
 
 ## Gaming
 
+### Steam
+
 Steam requires the `multilib` repository.
 
 Open the pacman configuration:
@@ -74,4 +76,12 @@ Check OpenGL, Direct Rendering and Vulkan details:
 glxinfo | grep "OpenGL renderer"
 glxinfo | grep "direct rendering"
 vulkaninfo --summary
+```
+
+### Minecraft
+
+Install official launcher from AUR:
+
+```bash
+yay -S minecraft-launcher
 ```
