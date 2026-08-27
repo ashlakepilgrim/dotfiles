@@ -80,6 +80,12 @@ vulkaninfo --summary
 
 ### Minecraft
 
+Install prism launcher (RECOMMENDED):
+
+```bash
+sudo pacman -S prismlauncher
+```
+
 Install official launcher from AUR:
 
 ```bash
