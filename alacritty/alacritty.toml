@@ -31,7 +31,7 @@ white   = '#fff1f3'
 
 # Font
 [font]
-size = 20
+size = 12
 
 [font.normal]
 family = "Terminess Nerd Font Mono"
