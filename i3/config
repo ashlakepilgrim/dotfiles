@@ -42,7 +42,8 @@ exec_always --no-startup-id ~/.config/polybar/launch.sh
 
 # Wallpaper
 # exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpapers/archlinux-tv.png
-exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpapers/blue-dreams-in-her-eyes-astro.png
+# exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpapers/blue-dreams-in-her-eyes-astro.png
+exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpapers/ascii-knight-sword-raise-art-desktop-wallpaper-4k.jpg
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
