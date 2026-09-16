@@ -18,6 +18,7 @@ arch linux dotfiles for my daily setup.
 * [utils setup](UTILS.md)
 * [dev dependencies setup](DEV_DEPENDENCIES.md)
 * [networking setup](NETWORKING.md)
+* [fonts setup](FONTS.md)
 
 ## screenshots
 
